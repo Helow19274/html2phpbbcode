@@ -21,7 +21,6 @@ setup(
     long_description_content_type="text/markdown",
     package_data={"html2phpbbcode": ["data/defaults.conf"]},
     install_requires=[
-        "html2bbcode",
         "regex",
     ],
     classifiers=[

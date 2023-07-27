@@ -1,2 +1,1 @@
-html2bbcode==2.3.3
-regex==2018.8.29
+regex

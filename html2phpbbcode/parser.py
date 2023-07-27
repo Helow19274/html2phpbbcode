@@ -1,6 +1,6 @@
 from os.path import join, dirname
 
-from html2bbcode.parser import HTML2BBCode, Attributes
+from .html2bbcode.parser import HTML2BBCode, Attributes
 from .validators import is_valid_url, is_valid_mail
 
 def is_mailto_url(url):
